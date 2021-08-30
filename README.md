@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Sol
 - 👀 I’m interested in Aerospace Engineering - specifically controls and estimation for hypersonic vehicles
 - 🌱 I’m currently learning about spacecraft dyanmics, signal processing, and intelligent system architecture
-- 💞️ I’m looking to collaborate on future projects and work-related endeavors
+- 💞️ I’m looking to collaborate on research projects and work-related endeavors
 - 📫 How to reach me: diegosol127@tamu.edu
 
 <!---
